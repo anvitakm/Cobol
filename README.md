@@ -1,2 +1,0 @@
-# Cobol
-Cobol Repository
